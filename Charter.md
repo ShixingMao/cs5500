@@ -9,7 +9,7 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
 - **Team Members (3-4 people):**
   1. Shixing Mao
   2. __________________________
-  3. __________________________
+  3. Runyuan Feng
   4. __________________________ (if applicable)
 
 ## Charter Sign-In
@@ -22,7 +22,7 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
 
 2. **Name:** __________________________ **Date:** __________ **Role:** __________________________
 
-3. **Name:** __________________________ **Date:** __________ **Role:** __________________________
+3. **Name:** Runyuan Feng **Date:** 2025-09-09 **Role:** Backend Engineer
 
 4. **Name:** __________________________ **Date:** __________ **Role:** __________________________ (if applicable)
 
