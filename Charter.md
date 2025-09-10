@@ -10,7 +10,7 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
   1. Shixing Mao
   2. Linhao Qian
   3. Runyuan Feng
-  4. __________________________ (if applicable)
+  4. Yang Zhang
 
 ## Charter Sign-In
 **Instructions:** Each team member must individually edit this file, add their name below, and commit the change. This creates accountability through git commit history showing each member's participation.
@@ -24,7 +24,7 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
 
 3. **Name:** Runyuan Feng **Date:** 2025-09-09 **Role:** Backend Engineer
 
-4. **Name:** __________________________ **Date:** __________ **Role:** __________________________ (if applicable)
+4. **Name:** Yang Zhang **Date:** 2025-09-09 **Role:** Test Coordinator
 
 *Note: The git commit history will verify that each team member has individually signed this charter.*
 
