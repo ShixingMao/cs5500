@@ -8,7 +8,7 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
 - **External Partner:** __________________________
 - **Team Members (3-4 people):**
   1. Shixing Mao
-  2. __________________________
+  2. Linhao Qian
   3. Runyuan Feng
   4. __________________________ (if applicable)
 
@@ -18,9 +18,9 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
 **Team Member Signatures:**
 <!-- Each member: Edit this file, add your name and date, then commit with message "Add [Your Name] to charter sign-in" -->
 
-1. **Name:** Shixing Mao **Date:** 2025-09-09 **Role:** Team Leader
+1. **Name:** Shixing Mao **Date:** 2025-09-09 **Role:** Producer
 
-2. **Name:** __________________________ **Date:** __________ **Role:** __________________________
+2. **Name:** Linhao Qian **Date:** 2025-09-09 **Role:** Frontend Engineer
 
 3. **Name:** Runyuan Feng **Date:** 2025-09-09 **Role:** Backend Engineer
 
